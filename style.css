@@ -1,0 +1,5 @@
+#canvas-container {
+    width: 80vh;
+    height: 80vh; /* Adjust this as needed */
+    position: relative; /* Adjust this as needed */
+}
